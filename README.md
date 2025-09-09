@@ -31,7 +31,7 @@ This helps farmers save water, improve crop yields, and move towards sustainable
    ```bash
    git clone https://github.com/RangeshPandianPT/SMART_IRRIGATION.git
    cd SMART_IRRIGATION
-````
+
 
 2. Install dependencies:
 
@@ -49,9 +49,7 @@ This helps farmers save water, improve crop yields, and move towards sustainable
 
    ```bash
    python smart_irrigation_advanced.py
-   ```
-
----
+   
 
 ## 📊 Model Details
 
